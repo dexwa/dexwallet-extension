@@ -356,17 +356,17 @@
   "basic": {
     "message": "Général"
   },
-  "betaMetamaskDescription": {
+  "betaDexwalletDescription": {
     "message": "DexWallet est un portefeuille sécurisé utilisé par des millions de personnes qui rend l’univers du web3 accessible à toutes et à tous."
   },
-  "betaMetamaskDescriptionExplanation": {
+  "betaDexwalletDescriptionExplanation": {
     "message": "Utilisez cette version pour tester les futures fonctionnalités avant leur lancement. Votre utilisation et vos commentaires nous aident à développer la meilleure version possible de DexWallet. Votre utilisation de DexWallet Beta est conditionnée par notre norme $1, ainsi que par notre $2. Il s’agit de la version bêta, présentant un risque de bogues plus élevé. En continuant, vous acceptez et reconnaissez ce risque, ainsi que ceux mentionnés dans nos Conditions d’utilisation et nos Conditions bêta.",
-    "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
+    "description": "$1 represents localization item betaDexwalletDescriptionExplanationTermsLinkText.  $2 represents localization item betaDexwalletDescriptionExplanationBetaTermsLinkText"
   },
-  "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
+  "betaDexwalletDescriptionExplanationBetaTermsLinkText": {
     "message": "Conditions bêta supplémentaires"
   },
-  "betaMetamaskDescriptionExplanationTermsLinkText": {
+  "betaDexwalletDescriptionExplanationTermsLinkText": {
     "message": "Conditions d’utilisation"
   },
   "betaDexwalletVersion": {
@@ -579,7 +579,7 @@
     "message": "$1 comptes",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithMetaMask": {
+  "connectWithDexWallet": {
     "message": "Connectez-vous avec DexWallet"
   },
   "connectedAccountsDescriptionPlural": {
@@ -813,7 +813,7 @@
     "message": "$1 souhaite lire ce message pour compléter votre action",
     "description": "$1 is the web3 site name"
   },
-  "decryptMetamask": {
+  "decryptDexwallet": {
     "message": "Décrypter le message"
   },
   "decryptRequest": {
@@ -1839,71 +1839,71 @@
   "message": {
     "message": "Message"
   },
-  "metaMaskConnectStatusParagraphOne": {
+  "dexWalletConnectStatusParagraphOne": {
     "message": "Vous avez maintenant davantage de contrôle sur les connexions de vos comptes dans DexWallet."
   },
-  "metaMaskConnectStatusParagraphThree": {
+  "dexWalletConnectStatusParagraphThree": {
     "message": "Cliquez pour gérer vos comptes connectés."
   },
-  "metaMaskConnectStatusParagraphTwo": {
+  "dexWalletConnectStatusParagraphTwo": {
     "message": "Le bouton d’état de connexion indique si le site Web que vous visitez est connecté à votre compte actuellement sélectionné."
   },
-  "metamaskDescription": {
+  "dexwalletDescription": {
     "message": "DexWallet est un coffre sécurisé pour votre identité sur Ethereum."
   },
-  "metamaskSwapsOfflineDescription": {
+  "dexwalletSwapsOfflineDescription": {
     "message": "DexWallet Swaps est en cours de maintenance. Nous vous invitons à revenir plus tard."
   },
-  "metamaskVersion": {
+  "dexwalletVersion": {
     "message": "Version de DexWallet"
   },
-  "metametricsCommitmentsAllowOptOut": {
+  "dexmetricsCommitmentsAllowOptOut": {
     "message": "Toujours pouvoir vous désinscrire via les Paramètres"
   },
-  "metametricsCommitmentsAllowOptOut2": {
+  "dexmetricsCommitmentsAllowOptOut2": {
     "message": "Toujours pouvoir se désinscrire via les Paramètres"
   },
-  "metametricsCommitmentsBoldNever": {
+  "dexmetricsCommitmentsBoldNever": {
     "message": "Jamais",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
+  "dexmetricsCommitmentsIntro": {
     "message": "DexWallet :"
   },
-  "metametricsCommitmentsNeverCollect": {
+  "dexmetricsCommitmentsNeverCollect": {
     "message": "Ne collectera jamais vos clés, adresses, transactions, soldes, hachages ou toute autre information personnelle"
   },
-  "metametricsCommitmentsNeverCollectIP": {
+  "dexmetricsCommitmentsNeverCollectIP": {
     "message": "Ne collectera $1 votre adresse IP complète",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'dexmetricsCommitmentsBoldNever'"
   },
-  "metametricsCommitmentsNeverCollectKeysEtc": {
+  "dexmetricsCommitmentsNeverCollectKeysEtc": {
     "message": "Ne collectera $1 vos clés, adresses, transactions, soldes, hachages ou toute autre information personnelle",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'dexmetricsCommitmentsBoldNever'"
   },
-  "metametricsCommitmentsNeverIP": {
+  "dexmetricsCommitmentsNeverIP": {
     "message": "Ne collectera jamais votre adresse IP complète"
   },
-  "metametricsCommitmentsNeverSell": {
+  "dexmetricsCommitmentsNeverSell": {
     "message": "Ne vendra jamais de données à des fins lucratives. Jamais !"
   },
-  "metametricsCommitmentsNeverSellDataForProfit": {
+  "dexmetricsCommitmentsNeverSellDataForProfit": {
     "message": "Ne vendra $1 de données à des fins lucratives. Jamais !",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'dexmetricsCommitmentsBoldNever'"
   },
-  "metametricsCommitmentsSendAnonymizedEvents": {
+  "dexmetricsCommitmentsSendAnonymizedEvents": {
     "message": "Enverra des événements de clics et de pages vues anonymisés"
   },
-  "metametricsHelpImproveMetaMask": {
+  "dexmetricsHelpImproveDexWallet": {
     "message": "Aidez-nous à améliorer DexWallet"
   },
-  "metametricsOptInDescription": {
+  "dexmetricsOptInDescription": {
     "message": "DexWallet souhaite recueillir des données d’utilisation afin de mieux comprendre comment nos utilisateurs interagissent avec l’extension. Elles seront utilisées pour améliorer en permanence la convivialité et l’expérience utilisateur de notre produit et de l’écosystème Ethereum."
   },
-  "metametricsOptInDescription2": {
+  "dexmetricsOptInDescription2": {
     "message": "Nous aimerions recueillir des données d’utilisation de base pour améliorer la convivialité de notre produit. Ces indicateurs seront…"
   },
-  "metametricsTitle": {
+  "dexmetricsTitle": {
     "message": "Rejoignez plus de 6 M d’utilisateurs pour améliorer DexWallet"
   },
   "mismatchedChainLinkText": {
@@ -2067,7 +2067,7 @@
   "newPassword": {
     "message": "Nouveau mot de passe (min 8 caractères)"
   },
-  "newToMetaMask": {
+  "newToDexWallet": {
     "message": "Nouveau sur DexWallet ?"
   },
   "newTokensImportedMessage": {
@@ -2408,11 +2408,11 @@
   "parameters": {
     "message": "Paramètres"
   },
-  "participateInMetaMetrics": {
-    "message": "Participer à MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "Participer à DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "Participez à MetaMetrics pour nous aider à améliorer DexWallet"
+  "participateInDexMetricsDescription": {
+    "message": "Participez à DexMetrics pour nous aider à améliorer DexWallet"
   },
   "password": {
     "message": "Mot de passe"
@@ -2685,7 +2685,7 @@
   "resetWalletWarning": {
     "message": "Vérifiez que vous avez saisi correctement la phrase de récupération secrète avant de continuer. Vous ne pourrez pas annuler cette action."
   },
-  "restartMetamask": {
+  "restartDexwallet": {
     "message": "Redémarrer DexWallet"
   },
   "restore": {
@@ -3413,10 +3413,10 @@
   "swapMaxSlippage": {
     "message": "Glissement maximal"
   },
-  "swapMetaMaskFee": {
+  "swapDexWalletFee": {
     "message": "Frais DexWallet"
   },
-  "swapMetaMaskFeeDescription": {
+  "swapDexWalletFeeDescription": {
     "message": "Nous recherchons systématiquement le meilleur prix auprès des meilleures sources de liquidité. Une commission de $1 % est automatiquement incluse dans cette cotation.",
     "description": "Provides information about the fee that dexwallet takes for swaps. $1 is a decimal number."
   },
@@ -4081,10 +4081,10 @@
   "welcomeLoginTitle": {
     "message": "Dites bonjour à votre portefeuille"
   },
-  "welcomeToMetaMask": {
+  "welcomeToDexWallet": {
     "message": "C’est parti !"
   },
-  "welcomeToMetaMaskIntro": {
+  "welcomeToDexWalletIntro": {
     "message": "DexWallet est un portefeuille sécurisé utilisé par des millions de personnes qui rend l’univers du web3 accessible à toutes et à tous."
   },
   "whatsNew": {

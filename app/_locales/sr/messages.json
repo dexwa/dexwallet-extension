@@ -33,7 +33,7 @@
     "message": "dnevnik aktivnosti"
   },
   "addAcquiredTokens": {
-    "message": "Dodajte stečene tokene koristeći MetaMask."
+    "message": "Dodajte stečene tokene koristeći DexWallet."
   },
   "addAlias": {
     "message": "Dodaj pseudonim"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "DexWallet",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "DexWallet Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "DexWallet Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Tajmer za automatsko odjavljivanje (u minutama)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Podesite vreme mirovanja u minutima pre nego što se MetaMask automatski odjavi. "
+    "message": "Podesite vreme mirovanja u minutima pre nego što se DexWallet automatski odjavi. "
   },
   "average": {
     "message": "Prosečno"
@@ -109,7 +109,7 @@
     "message": "Povratak na Sve"
   },
   "backupApprovalInfo": {
-    "message": "Potreban je tajni kôd za oporavak vašeg novčanika u slučaju da izgubite uređaj, zaboravite lozinku, morate ponovo da instalirate MetaMask ili želite da pristupite novčaniku sa drugog uređaja."
+    "message": "Potreban je tajni kôd za oporavak vašeg novčanika u slučaju da izgubite uređaj, zaboravite lozinku, morate ponovo da instalirate DexWallet ili želite da pristupite novčaniku sa drugog uređaja."
   },
   "backupApprovalNotice": {
     "message": "Napravite rezervnu kopiju tajnog kôda za oporavak da bi vaš novčanik i sredstva bili bezbedni."
@@ -140,7 +140,7 @@
     "message": "Kupite $1 preko servisa Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vam dozvoljava da koristite kreditnu karticu kako biste deponovali $1 pravo na vaš MetaMask nalog."
+    "message": "Wyre vam dozvoljava da koristite kreditnu karticu kako biste deponovali $1 pravo na vaš DexWallet nalog."
   },
   "bytes": {
     "message": "Bajtovi"
@@ -155,7 +155,7 @@
     "message": "Otkazano"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Da biste se povezali sa Vašim hardverskim novčanikom morate da koristite MetaMask na Google Chrome-u."
+    "message": "Da biste se povezali sa Vašim hardverskim novčanikom morate da koristite DexWallet na Google Chrome-u."
   },
   "clickToRevealSeed": {
     "message": "Kliknite ovde kako biste otkrili tajne reči"
@@ -314,13 +314,13 @@
     "message": "Nikada ne delite frazu ni sa kim."
   },
   "endOfFlowMessage5": {
-    "message": "Čuvajte se pecanja (krađe podataka)! MetaMask nikad neće spontano tražiti vašu šifru za oporavak naloga (seed phrase)."
+    "message": "Čuvajte se pecanja (krađe podataka)! DexWallet nikad neće spontano tražiti vašu šifru za oporavak naloga (seed phrase)."
   },
   "endOfFlowMessage6": {
     "message": "Ako treba ponovo da izradite rezervnu kopiju svoje početne fraze, možete je pronaći u Postavke -> Bezbednost."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask ne može da oporavi vašu početnu frazu. Saznajte više."
+    "message": "DexWallet ne može da oporavi vašu početnu frazu. Saznajte više."
   },
   "endOfFlowMessage9": {
     "message": "Saznajte više."
@@ -425,7 +425,7 @@
     "message": "Povežite hardverski novčanik"
   },
   "hardwareWalletsMsg": {
-    "message": "Izaberite hardverski novčanik koji biste voleli da koristite sa MetaMask-om"
+    "message": "Izaberite hardverski novčanik koji biste voleli da koristite sa DexWallet-om"
   },
   "here": {
     "message": "ovde",
@@ -451,7 +451,7 @@
     "message": "Uvezite nalog"
   },
   "importAccountMsg": {
-    "message": "Uvezeni nalozi neće biti povezani sa početnom frazom koju ste prvobitno kreirali za MetaMask nalog. Saznajte više o uvezenim nalozima."
+    "message": "Uvezeni nalozi neće biti povezani sa početnom frazom koju ste prvobitno kreirali za DexWallet nalog. Saznajte više o uvezenim nalozima."
   },
   "importAccountSeedPhrase": {
     "message": "Uvezi račun sa frazom početnih vrednosti"
@@ -545,11 +545,11 @@
   "message": {
     "message": "Poruka"
   },
-  "metamaskDescription": {
+  "dexwalletDescription": {
     "message": "Povezivanje na Ethereum i decentralizovani veb."
   },
-  "metamaskVersion": {
-    "message": "MetaMask verzija"
+  "dexwalletVersion": {
+    "message": "DexWallet verzija"
   },
   "mustSelectOne": {
     "message": "Morate izabrati najmanje 1 token."
@@ -592,8 +592,8 @@
   "newPassword": {
     "message": "Nova lozinka (minimalno 8 karaktera)"
   },
-  "newToMetaMask": {
-    "message": "Novi ste u MetaMask-u?"
+  "newToDexWallet": {
+    "message": "Novi ste u DexWallet-u?"
   },
   "newTotal": {
     "message": "Novi zbir"
@@ -643,11 +643,11 @@
   "parameters": {
     "message": "Parametri"
   },
-  "participateInMetaMetrics": {
-    "message": "Učestvujte u MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "Učestvujte u DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "Učestvujte u MetaMetrics da biste nam pomogli da poboljšamo MetaMask."
+  "participateInDexMetricsDescription": {
+    "message": "Učestvujte u DexMetrics da biste nam pomogli da poboljšamo DexWallet."
   },
   "password": {
     "message": "Лозинка"
@@ -916,16 +916,16 @@
     "message": "Obratite pažnju da niko drugi ne gleda u vaš ekran kad skenirate ovaj kod"
   },
   "syncWithMobileComplete": {
-    "message": "Vaši podaci su uspešno sinhronizovani. Uživajte u mobilnoj aplikaciji MetaMask!"
+    "message": "Vaši podaci su uspešno sinhronizovani. Uživajte u mobilnoj aplikaciji DexWallet!"
   },
   "syncWithMobileDesc": {
-    "message": "Možete sinhronizovati vaše naloge i informacije sa svojim mobilnim uređajem. Otvorite mobilnu aplikaciju MetaMask, idite na \"Podešavanja\" i pritisnite \"Sinhronizuj iz ekstenzije za pregledač\""
+    "message": "Možete sinhronizovati vaše naloge i informacije sa svojim mobilnim uređajem. Otvorite mobilnu aplikaciju DexWallet, idite na \"Podešavanja\" i pritisnite \"Sinhronizuj iz ekstenzije za pregledač\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ako prvi put otvorite aplikaciju MetaMask Mobile, samo sledite korake u svom telefonu."
+    "message": "Ako prvi put otvorite aplikaciju DexWallet Mobile, samo sledite korake u svom telefonu."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skenirajte ovaj kod uz pomoć svoje MetaMask mobilne aplikacije"
+    "message": "Skenirajte ovaj kod uz pomoć svoje DexWallet mobilne aplikacije"
   },
   "syncWithMobileTitle": {
     "message": "Sinhronizujte sa mobilnim uređajem"
@@ -1010,7 +1010,7 @@
     "message": "Пробај поново"
   },
   "typePassword": {
-    "message": "Ukucajte svoju MetaMask šifru"
+    "message": "Ukucajte svoju DexWallet šifru"
   },
   "unapproved": {
     "message": "Neodobren"
@@ -1061,7 +1061,7 @@
     "message": "Posetite našu veb lokaciju"
   },
   "welcome": {
-    "message": "Dobro došli na MetaMask"
+    "message": "Dobro došli na DexWallet"
   },
   "welcomeBack": {
     "message": "Dobro došli nazad!"

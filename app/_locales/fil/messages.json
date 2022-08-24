@@ -535,7 +535,7 @@
   "newPassword": {
     "message": "Bagong Password (min 8 char)"
   },
-  "newToMetaMask": {
+  "newToDexWallet": {
     "message": "Bago ka ba sa DexWallet?"
   },
   "newTotal": {
@@ -583,11 +583,11 @@
   "parameters": {
     "message": "Mga Parameter"
   },
-  "participateInMetaMetrics": {
-    "message": "Makilahok sa MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "Makilahok sa DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "Makilahok sa MetaMetrics para tulungan kaming mas pagandahin ang DexWallet"
+  "participateInDexMetricsDescription": {
+    "message": "Makilahok sa DexMetrics para tulungan kaming mas pagandahin ang DexWallet"
   },
   "passwordNotLongEnough": {
     "message": "Hindi sapat ang haba ng password"

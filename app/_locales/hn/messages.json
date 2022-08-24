@@ -19,15 +19,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "मेटामास्क/MetaMask",
+    "message": "मेटामास्क/DexWallet",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "DexWallet Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "DexWallet Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -202,7 +202,7 @@
   "message": {
     "message": "संदेश"
   },
-  "metamaskDescription": {
+  "dexwalletDescription": {
     "message": "मेटामास्क इथीरियम के लिए एक सुरक्षित पहचान वॉल्ट है।"
   },
   "mustSelectOne": {

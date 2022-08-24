@@ -649,11 +649,11 @@
   "parameters": {
     "message": "Parametrit"
   },
-  "participateInMetaMetrics": {
-    "message": "Osallistu MetaMetricsiin"
+  "participateInDexMetrics": {
+    "message": "Osallistu DexMetricsiin"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "Osallistu MetaMetricsiin auttaaksesi meitä tekemään DexWalletista paremman"
+  "participateInDexMetricsDescription": {
+    "message": "Osallistu DexMetricsiin auttaaksesi meitä tekemään DexWalletista paremman"
   },
   "password": {
     "message": "Salasana"

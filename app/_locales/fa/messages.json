@@ -428,7 +428,7 @@
     "message": "به کیف سخت افزار وصل کنید"
   },
   "hardwareWalletsMsg": {
-    "message": "یک کیف سخت افزار را که میخواهید با MetaMast استفاده نمایید، انتخاب کنید"
+    "message": "یک کیف سخت افزار را که میخواهید با DexMast استفاده نمایید، انتخاب کنید"
   },
   "here": {
     "message": "اینجا",
@@ -652,11 +652,11 @@
   "parameters": {
     "message": "پارامتر ها"
   },
-  "participateInMetaMetrics": {
-    "message": "اشتراک در MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "اشتراک در DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "در MetaMetrics اشتراک نمایید تا به ما کمک شود DexWallet را بهتر بسازیم"
+  "participateInDexMetricsDescription": {
+    "message": "در DexMetrics اشتراک نمایید تا به ما کمک شود DexWallet را بهتر بسازیم"
   },
   "password": {
     "message": "گذرواژه"

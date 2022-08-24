@@ -10,19 +10,19 @@
   color: var(--color-text-default);
 
   @include screen-sm-max {
-    right: 16px;
+    left: 16px;
   }
 
   @include screen-sm-min {
-    right: calc((100vw - 85vw) / 2);
+    left: calc((100vw - 85vw) / 2);
   }
 
   @include screen-md-min {
-    right: calc((100vw - 80vw) / 2);
+    left: calc((100vw - 80vw) / 2);
   }
 
   @include screen-lg-min {
-    right: calc((100vw - 65vw) / 2);
+    left: calc((100vw - 65vw) / 2);
   }
 
   &__item {

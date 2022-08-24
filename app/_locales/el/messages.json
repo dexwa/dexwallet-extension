@@ -1503,7 +1503,7 @@
     "message": "Σφάλμα εισαγωγής λογαριασμού."
   },
   "importAccountMsg": {
-    "message": "Οι λογαριασμοί που εισάγονται δεν θα συσχετιστούν με τη Μυστική Φράση Ανάκτησης του λογαριασμού σας MetaTask που δημιουργήθηκε αρχικά. Μάθετε περισσότερα για τους εισηγμένους λογαριασμούς"
+    "message": "Οι λογαριασμοί που εισάγονται δεν θα συσχετιστούν με τη Μυστική Φράση Ανάκτησης του λογαριασμού σας DexTask που δημιουργήθηκε αρχικά. Μάθετε περισσότερα για τους εισηγμένους λογαριασμούς"
   },
   "importAccountSeedPhrase": {
     "message": "Εισαγωγή λογαριασμού με Μυστική Φράση Ανάκτησης"
@@ -1839,13 +1839,13 @@
   "message": {
     "message": "Μήνυμα"
   },
-  "dexMaskConnectStatusParagraphOne": {
+  "dexWalletConnectStatusParagraphOne": {
     "message": "Τώρα έχετε περισσότερο έλεγχο των συνδέσεων του λογαριασμού σας στο DexWallet."
   },
-  "dexMaskConnectStatusParagraphThree": {
+  "dexWalletConnectStatusParagraphThree": {
     "message": "Κάντε κλικ για να διαχειριστείτε τους συνδεδεμένους λογαριασμούς σας."
   },
-  "dexMaskConnectStatusParagraphTwo": {
+  "dexWalletConnectStatusParagraphTwo": {
     "message": "Το κουμπί κατάστασης σύνδεσης εμφανίζει αν η ιστοσελίδα που επισκέπτεστε είναι συνδεδεμένη με τον τρέχοντα επιλεγμένο λογαριασμό σας."
   },
   "dexwalletDescription": {
@@ -2408,11 +2408,11 @@
   "parameters": {
     "message": "Παράμετροι"
   },
-  "participateInMetaMetrics": {
-    "message": "Συμμετάσχετε στο MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "Συμμετάσχετε στο DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "Συμμετέχετε στο MetaMetrics για να μας βοηθήσετε να βελτιώσουμε το DexWallet"
+  "participateInDexMetricsDescription": {
+    "message": "Συμμετέχετε στο DexMetrics για να μας βοηθήσετε να βελτιώσουμε το DexWallet"
   },
   "password": {
     "message": "Κωδικός πρόσβασης"

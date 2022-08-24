@@ -2408,11 +2408,11 @@
   "parameters": {
     "message": "Parámetros"
   },
-  "participateInMetaMetrics": {
-    "message": "Participar en MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "Participar en DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "Participe en MetaMetrics para ayudarnos a mejorar DexWallet"
+  "participateInDexMetricsDescription": {
+    "message": "Participe en DexMetrics para ayudarnos a mejorar DexWallet"
   },
   "password": {
     "message": "Contraseña"

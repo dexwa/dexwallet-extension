@@ -1582,13 +1582,13 @@
   "dexWalletConnectStatusParagraphTwo": {
     "message": "El botón de estado de la conexión muestra si el sitio web que visita está conectado a la cuenta seleccionada actualmente."
   },
-  "dexmaskDescription": {
+  "dexwalletDescription": {
     "message": "Conectándolo a Ethereum y a la Web descentralizada."
   },
-  "dexmaskSwapsOfflineDescription": {
+  "dexwalletSwapsOfflineDescription": {
     "message": "DexWallet Swaps está en mantenimiento. Vuelva a comprobarlo más tarde."
   },
-  "dexmaskVersion": {
+  "dexwalletVersion": {
     "message": "Versión de DexWallet"
   },
   "dexmetricsCommitmentsAllowOptOut": {
@@ -2025,11 +2025,11 @@
   "parameters": {
     "message": "Parámetros"
   },
-  "participateInMetaMetrics": {
-    "message": "Participar en MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "Participar en DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "Participe en MetaMetrics para ayudarnos a mejorar DexWallet"
+  "participateInDexMetricsDescription": {
+    "message": "Participe en DexMetrics para ayudarnos a mejorar DexWallet"
   },
   "password": {
     "message": "Contraseña"

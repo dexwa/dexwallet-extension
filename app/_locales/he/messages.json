@@ -598,7 +598,7 @@
   "newPassword": {
     "message": "ססמה חדשה (לפחות 8 תווים)"
   },
-  "newToMetaMask": {
+  "newToDexWallet": {
     "message": "חדש/ה ב- DexWallet?"
   },
   "newTotal": {
@@ -649,11 +649,11 @@
   "parameters": {
     "message": "פרמטרים"
   },
-  "participateInMetaMetrics": {
-    "message": "קח/י חלק ב- MetaMetrics"
+  "participateInDexMetrics": {
+    "message": "קח/י חלק ב- DexMetrics"
   },
-  "participateInMetaMetricsDescription": {
-    "message": "קח/י חלק ב-MetaMetrics כדי לעזור לנו לשפר את DexWallet"
+  "participateInDexMetricsDescription": {
+    "message": "קח/י חלק ב-DexMetrics כדי לעזור לנו לשפר את DexWallet"
   },
   "password": {
     "message": "סיסמה"
